@@ -1,0 +1,14 @@
+
+
+.jumbotron {
+    background-image: url("../images/orange.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white
+    } 
+
+.darker{
+    background-color: rgb(77, 72, 80);
+    color: white;
+}
+
